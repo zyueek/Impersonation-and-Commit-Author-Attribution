@@ -1,4 +1,4 @@
-# RF + SCAP Baselines (Core Files)
+# RF + SCAP Baselines
 
 This folder contains the main non-PLM baseline files used for commit-level author attribution evaluation.
 
