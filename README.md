@@ -47,11 +47,3 @@ This folder includes:
 - aggregate baseline summary CSV files
 
 See `baseline/README.md` and `baseline/README_RF_SCAP_BASELINES.md` for methods and commands.
-
-## Suggested Name on GitHub
-
-`Impersonation and Commit Author Attribution`
-
-## Notes
-
-This is a curated release set. It intentionally includes representative files for adversarial attacks and RF/SCAP baselines rather than every intermediate artifact from the full development workspace.
