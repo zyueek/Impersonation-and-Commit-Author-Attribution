@@ -1,2 +1,0 @@
-n_repos,accuracy_mean,accuracy_by_author_mean,precision_macro_mean,recall_macro_mean,f1_macro_mean,auc_mean,confidence_mean_mean
-318,0.7226602695657328,0.5217694584064329,0.6008804525154982,0.5217694584064329,0.5174307080713119,0.7290566431293197,0.701473006082662
