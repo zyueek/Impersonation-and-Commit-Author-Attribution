@@ -13,18 +13,7 @@ This folder contains the main non-PLM baseline files used for commit-level autho
 - `collect_rf_info_eval.py`, `collect_scap_eval.py`, `collect_scap_info_eval.py`: metric collection helpers.
 - `aggregate_rf_results.py`, `aggregate_rf_info_results.py`, `aggregate_scap_results.py`, `aggregate_scap_info_results.py`: cross-repository aggregation scripts.
 
-## Included Aggregate Results
-
-- `aggregate_rf_overall_weak.csv`
-- `aggregate_rf_info_overall_weak.csv`
-- `aggregate_scap_overall.csv`
-- `aggregate_scap_info_overall.csv`
-
-These files provide quick summary statistics for baseline comparison tables.
-
-## Method Documentation
-
-- `README_RF_SCAP_BASELINES.md` documents method details, adaptation rationale, and reproducible commands.
+ documents method details, adaptation rationale, and reproducible commands.
 
 ## Typical Usage
 
